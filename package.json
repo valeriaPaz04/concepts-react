@@ -2,7 +2,7 @@
   "name": "project-autonomo",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://valeriaPaz04.github.io/project_three",
+  "homepage": "https://valeriapaz04.github.io/concepts-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
