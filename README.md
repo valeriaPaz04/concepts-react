@@ -2,7 +2,7 @@
 
 **React | React Router | JavaScript | CSS3 | HTML5**
 
-📚 Proyecto educativo - Valeria Paz Arana (SENA 2025 - Ficha 3147921)
+📚 Proyecto educativo - Valeria Paz Arana (SENA 2025)
 
 Aplicación React con sistema de navegación y páginas educativas sobre conceptos fundamentales de React.
 
@@ -84,35 +84,31 @@ src/
 
 ##### 1. Clonar el repositorio
 ```bash
-  git clone https://github.com/valeriaPaz04/project_three.git
+  git clone <URL_DEL_REPOSITORIO>
 ```
-##### 2. Navegar al directorio del proyecto
-```bash
-cd project-autonomo
-```
-##### 3. Instalar dependencias
+##### 2. Instalar dependencias
 ```bash
 npm install
 # o
 yarn install
 ```
-##### 4. Iniciar el servidor de desarrollo
+##### 3. Iniciar el servidor de desarrollo
 ```bash
-npm start
+npm run dev
 # o
-yarn start
+yarn dev
 ```
-##### 5. Abre tu navegador
+##### 4. Abre tu navegador
 Abre tu navegador en http://localhost:5173/project_three/ para ver la aplicación funcionando.
 
 ## 📜 Scripts Disponibles
 
 | Comando            | Descripción |
 |-------------------|------------|
-| `npm start`        | 🚀 Inicia el servidor de desarrollo |
-| `npm test`         | 🧪 Ejecuta pruebas unitarias |
+| `npm run dev`      | 🚀 Inicia el servidor de desarrollo |
 | `npm run build`    | 📦 Construye la aplicación para producción |
-| `npm run eject`    | ⚠️ Expone la configuración de webpack (irreversible) |
+| `npm run preview`  | 👀 Previsualiza la build de producción |
+| `npm run lint`     | 🔍 Ejecuta el linter |
 
 ---
 
@@ -141,5 +137,4 @@ Proyecto educativo - **Valeria Paz Arana**
 Este proyecto es de uso educativo y está disponible bajo la licencia MIT.
 
 ---
-
 ✨ Espero que te haya gustado este proyecto y te sea útil para aprender React ✨
